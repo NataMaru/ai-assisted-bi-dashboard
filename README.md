@@ -7,7 +7,7 @@ This project was created to demonstrate a Proof of Concept (PoC) for an interact
 ---
 
 ## 🔗 Project Links
-* 🚀 **Live Demo**: [Open Live Dashboard](https://frolicking-rugelach-816534.netlify.app/) 
+* 🚀 **Live Demo**: [Open Live Dashboard](https://nata-maru-genai-bi-dash.netlify.app/) 
 * 🎥 **Video Review on YouTube**: [Watch Project Walkthrough & Analysis](https://www.youtube.com/watch?v=mOIDNCPesqk&t=280s)
 
 ---
