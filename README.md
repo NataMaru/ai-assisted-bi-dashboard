@@ -19,7 +19,7 @@ This project was created to demonstrate a Proof of Concept (PoC) for an interact
 ---
 
 ## 🎯 My Contribution as a Data Analyst:
-* **Data Preparation**: Structured the e-commerce mock data used to populate the charts (.csv file).
+* **Data Preparation**: Structured the e-commerce mock data used to populate the charts (data.csv file).
 * **Prompt Engineering**: Crafted detailed technical prompts for Claude AI to generate the dashboard structure and chat assistant logic.
 * **Tuning & Testing**: Conducted functional business testing of the interface, adjusted the bot's responses to match business KPIs, and validated data consistency.
 * **Deployment**: Independently hosted the code on a free hosting platform to demonstrate front-end viability.
